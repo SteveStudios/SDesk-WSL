@@ -1,6 +1,6 @@
 ![SDesk-ProjectBanner](https://github.com/SteveStudios/SDesk/assets/90519370/bdc49397-1d40-4e47-8114-5116fc8aafdf)
 
-# This is the repository for the SDesk ISO Source code, It includes all of the packages and files required to build a custom SDesk disk image.
+# This is the repository for the SDesk WSL root filesystem.
 
 ## Building
 ### Prequisites
