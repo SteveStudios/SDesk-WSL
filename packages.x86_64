@@ -131,40 +131,15 @@ gst-plugins-good
 # Power profile support
 power-profiles-daemon
 
-# Windowing Systems and GUI Toolkits (Wayland, XWayland, glfw, glew, etc.)
+# Windowing Systems and GUI Toolkits (Wayland, XWayland, Qt5, Qt6, glfw, glew, etc.)
 egl-wayland
 glfw-wayland
+qt5-wayland
+qt6-wayland
 wayland
 wayland-protocols
 xorg-xwayland
 glew
-
-# Calamares installer
-qt5ct
-qqc2-desktop-style
-polkit-qt5
-kconfig
-kcoreaddons
-kdbusaddons
-kwidgetsaddons
-ki18n
-kpackage
-kparts
-kpmcore
-plasma-framework
-boost
-boost-libs
-appstream-qt
-libatasmart
-libpwquality
-solid
-yaml-cpp
-udisks2
-polkit
-ckbcomp
-mkinitcpio-openswap
-python-yaml
-calamares
 
 # Device Security Utilities
 fwupd
@@ -176,7 +151,6 @@ plymouth-git
 libreoffice-still
 swirl
 geary
-neofetch
 nano
 python
 git
