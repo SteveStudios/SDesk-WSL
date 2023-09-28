@@ -139,6 +139,32 @@ wayland-protocols
 xorg-xwayland
 glew
 
+# Qt utilities
+qt5ct
+qqc2-desktop-style
+polkit-qt5
+kconfig
+kcoreaddons
+kdbusaddons
+kwidgetsaddons
+ki18n
+kpackage
+kparts
+kpmcore
+plasma-framework
+boost
+boost-libs
+appstream-qt
+libatasmart
+libpwquality
+solid
+yaml-cpp
+udisks2
+polkit
+ckbcomp
+mkinitcpio-openswap
+python-yaml
+
 # Device Security Utilities
 fwupd
 
